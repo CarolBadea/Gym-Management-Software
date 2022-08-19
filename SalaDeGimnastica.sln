@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalaDeGimnastica", "WinFormsApp1\SalaDeGimnastica.csproj", "{2533AE16-F070-49B2-9FC7-3DECB65D01C5}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database1", "..\..\source\repos\Database1\Database1.sqlproj", "{099808BF-F460-4C49-BA20-5C51EB10C70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2533AE16-F070-49B2-9FC7-3DECB65D01C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2533AE16-F070-49B2-9FC7-3DECB65D01C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2533AE16-F070-49B2-9FC7-3DECB65D01C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2533AE16-F070-49B2-9FC7-3DECB65D01C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{099808BF-F460-4C49-BA20-5C51EB10C70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099808BF-F460-4C49-BA20-5C51EB10C70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099808BF-F460-4C49-BA20-5C51EB10C70D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{099808BF-F460-4C49-BA20-5C51EB10C70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099808BF-F460-4C49-BA20-5C51EB10C70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{099808BF-F460-4C49-BA20-5C51EB10C70D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {873AB3BF-1505-4762-BB6D-E3C4786DD4EB}
+	EndGlobalSection
+EndGlobal
